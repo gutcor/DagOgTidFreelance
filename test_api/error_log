@@ -1,0 +1,4 @@
+[11-May-2016 13:01:41 UTC] PHP Notice:  Undefined property: stdClass::$oppgang in /home/cornelius14/public_html/DagOgTid/get_number.php on line 42
+[11-May-2016 13:18:03 UTC] PHP Notice:  Undefined property: stdClass::$oppgang in /home/cornelius14/public_html/DagOgTid/get_number.php on line 42
+[14-May-2016 20:26:15 UTC] PHP Notice:  Undefined property: stdClass::$oppgang in /home/cornelius14/public_html/DagOgTid/get_number.php on line 42
+[18-May-2016 12:28:28 UTC] PHP Notice:  Undefined property: stdClass::$oppgang in /home/cornelius14/public_html/DagOgTid/get_number.php on line 42
